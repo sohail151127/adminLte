@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/adminLte/static/js/main.533ef6a3.js",
+    "main.js": "/adminLte/static/js/main.48a30ab0.js",
     "index.html": "/adminLte/index.html",
-    "main.533ef6a3.js.map": "/adminLte/static/js/main.533ef6a3.js.map"
+    "main.48a30ab0.js.map": "/adminLte/static/js/main.48a30ab0.js.map"
   },
   "entrypoints": [
-    "static/js/main.533ef6a3.js"
+    "static/js/main.48a30ab0.js"
   ]
 }
